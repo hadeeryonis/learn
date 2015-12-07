@@ -1,9 +1,2 @@
-div{
-	background-col: red;
-	color: green;
-	p{
-		font-size: 20px;
-		text-indent: 4px;
-		font-family: arial;
-	}
-}
+@import "bootstrap";
+@import "custom/_box-style";
